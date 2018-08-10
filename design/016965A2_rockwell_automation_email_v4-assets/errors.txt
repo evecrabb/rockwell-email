@@ -1,0 +1,3 @@
+[8/8/2018, 12:33:07 PM] layer "This email was sent to: sponthieux@ra.rockwell.com Copyright © ": Expected end of input but "C" found.
+[8/8/2018, 12:33:07 PM] layer "G+": Expected end of input but "+" found.
+[8/8/2018, 12:33:07 PM] layer "This email was sent to: sponthieux@ra.rockwell.com Copyright © ": Expected end of input but "C" found.
